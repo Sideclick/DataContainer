@@ -37,3 +37,5 @@ $dataContainer->getQueryBuilder();
 // Return a KnpPaginator object for the Query
 $dataContainer->getPagination($page = 1, $countPerPage = 10);
 ```
+
+## And thats it!
